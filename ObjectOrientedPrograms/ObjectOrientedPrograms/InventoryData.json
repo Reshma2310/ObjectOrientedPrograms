@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Rice",
+    "Price": "1200",
+    "Weight": "60"
+  },
+  {
+    "Name": "Wheat",
+    "Price": "900",
+    "Weight": "50"
+  },
+  {
+    "Name": "Pulse",
+    "Price": "1500",
+    "Weight": "45"
+  }
+]
