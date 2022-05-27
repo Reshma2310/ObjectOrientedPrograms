@@ -1,0 +1,17 @@
+[
+  {
+    "StockName": "L&T",
+    "NoOfShares": "100",
+    "SharePrice": "1260"
+  },
+  {
+    "StockName": "Bajaj",
+    "NoOfShares": "90",
+    "SharePrice": "520"
+  },
+  {
+    "StockName": "Reliance",
+    "NoOfShares": "60",
+    "SharePrice": "730"
+  }
+]
