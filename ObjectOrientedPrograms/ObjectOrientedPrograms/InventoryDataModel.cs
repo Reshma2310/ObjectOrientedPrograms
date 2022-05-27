@@ -8,8 +8,9 @@ namespace ObjectOrientedPrograms
 {
     internal class InventoryDataModel
     {
-        public string Name { get; set; }
-        public int Price { get; set; }
-        public int Weight { get; set; }
+        public List<InventoryModel> Rice { get; set; }
+        public List<InventoryModel> Wheat { get; set; }
+        public List<InventoryModel> Pulses { get; set; }
+        
     }
 }

@@ -7,8 +7,8 @@ namespace ObjectOrientedPrograms
         public static void Main(string[] args)
         {
             Console.WriteLine("Json First Program");
-            InventoryDataMain json = new InventoryDataMain();
-            json.Convert(@"D:\BridgeLabs\ObjectOrientedPrograms\ObjectOrientedPrograms\ObjectOrientedPrograms\InventoryData.json");
+            ObjectOrientedPrograms.InventoryDataMain json = new ObjectOrientedPrograms.InventoryDataMain();
+            json.MethodToConvert(@"D:\BridgeLabs\ObjectOrientedPrograms\ObjectOrientedPrograms\ObjectOrientedPrograms\InventoryData.json");
         }
     }
 }
